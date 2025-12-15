@@ -31,6 +31,7 @@ module.exports = {
 
       },
       plugins: [],
+      base:"/Twitter_Interface/",
     }
   }
 }
